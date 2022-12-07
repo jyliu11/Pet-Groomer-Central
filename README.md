@@ -5,7 +5,9 @@
 ## Project Overview
 A dynamic Flask web application using Python3 and HTML that that handles user authentication (login, logout, registration) and allows pet groomers to create, modify, search, and delete appointments with made with clients.
 
-Find the video demo here: https://youtu.be/TQ-hZR23kTc 
+Find the video demo here: https://youtu.be/TQ-hZR23kTc
+
+Find the public GitHub repository here: https://github.com/jyliu11/Pet-Groomer-Central.git
 
 ### Features
 * Web pages rendered with Jinja templating and styled with Bootstrap elements.
